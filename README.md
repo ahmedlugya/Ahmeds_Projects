@@ -1,5 +1,5 @@
 # Ahmeds_Projects
-Class and work project files for future reference.
+Class and work project files for future reference (Experimental design in Data Science with R Programming, Machine Learning in Python, Data Visualization).
 
 Problem set 1.
 
