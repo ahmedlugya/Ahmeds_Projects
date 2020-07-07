@@ -20,5 +20,7 @@ We use Kid Creative dataset (StatsProf,2012) to analyze the relationship between
 
 Problem set 5.
 
+We use Women’s Wages dataset (R, 2018) to analyze the relationship between Wages and the years of schooling for females in the U.S. We analyze other affecting factors such as the mother’s years of schooling and use Instrumental Variable estimations to observe its correlation with the years of schooling for females. The purpose of this analysis is to determine whether it is necessary to go back to school to increase hourly wage and whether the mother’s level of schooling depicts the child’s ability to further educate. We identify that there is no causal relationship between the mother’s years of schooling and wages other than through the participants’ years of schooling.
+
 
 
