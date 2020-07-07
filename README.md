@@ -11,3 +11,9 @@ We use Apartment Building Evaluation dataset from Toronto’s Open Data Portal (
 future.It additionally provides further clarity to renters in terms of which type of property they should look into.
 
 Problem set 3.
+
+We use Catalogue Quality Scores dataset from Toronto’s Open Data Portal to analyze the relationship between the quality score of datasets on the city of Toronto’s open data portal and their metadata. The importance behind this analysis is that although more of the data is being published in various formats, data analysts, scientists, and students are on numerous occasions left with a time consuming and challenging task of identifying relevant data and understanding this data before any analysis can be done. Therefore it is necessary to publish datasets with satisfactory metadata to aid the usability of the datasets. We identified that as the quality score of the datasets increases, its metadata increases.
+
+Problem set 4.
+
+
