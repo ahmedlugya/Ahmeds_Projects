@@ -16,4 +16,9 @@ We use Catalogue Quality Scores dataset from Toronto’s Open Data Portal to ana
 
 Problem set 4.
 
+We use Kid Creative dataset (StatsProf,2012) to analyze the relationship between having a college degree and sales of parenting magazines. We analyze other affecting factors such as Race and use Matching algorithms to observe how much impact having a college degree had on the purchase of parenting magazines. The purpose of this analysis is to help companies determine the type of magazine Ads that should be portrayed to customers. We identify that holding or not holding a college degree has a great impact on the purchase of parenting magazines.
+
+Problem set 5.
+
+
 
